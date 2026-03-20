@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぽかぽか",
+  "base_artist": "チャラン・ポ・ランタン",
+  "createdAt": "2026-03-20T14:32:06.516129Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぽかぽか",
+      "artist": "チャラン・ポ・ランタン",
+      "has_synced": false,
+      "path": "select/pl_01_ぽかぽか_チャラン・ポ・ランタン.txt"
+    }
+  ]
+}
